@@ -1,4 +1,4 @@
-# Virtual PLC — Engine Modbus TCP Server
+# Virtual PLC - Engine Modbus TCP Server
 
 Simulates a real PLC monitoring an engine and exposes it over Modbus TCP
 using `pymodbus`. A background task plays the role of the PLC's scan
