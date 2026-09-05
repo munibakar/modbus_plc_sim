@@ -5,7 +5,7 @@ using `pymodbus`. A background task plays the role of the PLC's scan
 cycle: every second it reads any operator commands, advances an internal
 engine model, and republishes fresh sensor values.
 
-## Install
+## Installation Steps
 
 ```
 pip install -r requirements.txt
